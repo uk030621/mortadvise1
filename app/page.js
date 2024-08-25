@@ -49,7 +49,7 @@ export default function Home() {
 
   return (
     <div>
-      <a href="https://mortadvise1.vercel.app/" target="_blank" rel="noopener noreferrer"style={{ color: 'blue', textDecoration: 'underline' }}>Advisor Mortgage Tracking</a>
+      <a href="https://djapbarchart1.vercel.app/" target="_blank" rel="noopener noreferrer"style={{ color: 'blue', textDecoration: 'underline' }}>Advisor Protection Tracking</a>
     
       <h1>COAST Financial Solutions - Advisor Mortgage Tracking</h1>
       <h2>Add 'Month End' Data</h2>
